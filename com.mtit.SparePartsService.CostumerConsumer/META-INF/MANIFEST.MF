@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CostumerProducer
+Bundle-SymbolicName: CostumerConsumer
+Bundle-Activator: com.mtit.sparepartsservice.costumerconsumer.Activator
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.mtit.sparepartsservice.customerproducer,
+ org.osgi.framework;version="1.3.0"
